@@ -33,7 +33,7 @@ const Main = () => {
              I’m focused on building responsive front-end web applications
             integrating back-end technologies.Proficient in building interactive and responsive web applications using React on the frontend and backend technologies like Node.js and Express. 
              </p>
-             <Link target="_blank" href="https://drive.google.com/file/d/1559YGN0jEaEr-uSOiB4EXJFgA1dZ78Iw/view?usp=sharing"><button className="w-[50%] p-4 text-black mt-4">Download Resume</button></Link>
+             <Link target="_blank" href="https://drive.google.com/file/d/1oPt_9M6SOLV8MAmQSgBRoaLDzR9Ue2sC/view?usp=drive_link"><button className="w-[50%] p-4 text-black mt-4">Download Resume</button></Link>
              <div className='flex items-center justify-between max-w-[330px] m-auto py-4 mt-5'>
              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
             <Link  target="_blank" href="https://www.linkedin.com/in/tasfiqul-azad/"><FaLinkedinIn className='text-2xl'/></Link>
